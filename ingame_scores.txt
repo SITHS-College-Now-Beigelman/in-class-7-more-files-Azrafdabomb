@@ -1,0 +1,3 @@
+Player1 Azraf 100 150 250
+Player2 Amanda 240 360 600
+Player3 Kanye 500 750 1250
